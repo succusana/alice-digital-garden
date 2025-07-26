@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/articles/revenge-of-the-blog/","title":"Revenge of the Blog","created":"2025-07-26T14:53:48.581+01:00","updated":"2025-07-26T15:24:23.197+01:00"}
+{"dg-publish":true,"permalink":"/articles/revenge-of-the-blog/","title":"Revenge of the Blog","created":"2025-07-26T14:53:48.581+01:00","updated":"2025-07-26T15:26:50.490+01:00"}
 ---
 
 So, here we are again... Wait, it's been an entire *year?* 

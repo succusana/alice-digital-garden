@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-07-26T07:54:12.916+01:00","updated":"2025-07-26T14:53:16.468+01:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-07-26T07:54:12.916+01:00","updated":"2025-07-26T15:27:26.885+01:00"}
 ---
 
 # Ramblice
@@ -15,4 +15,5 @@ Welcome to my site thing! It's *very* early in development right now, but eventu
 | [[Articles/Revenge of the Blog\|Revenge of the Blog]] | I've gone down the rabbit hole... again. | July 26, 2025 |
 
 { .block-language-dataview}
+
 [[All Articles\|All Articles]]
