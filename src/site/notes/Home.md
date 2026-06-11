@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-07-26T07:54:12.916+01:00","updated":"2026-06-11T11:23:03.702+01:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-07-26T07:54:12.916+01:00","updated":"2026-06-11T11:36:51.020+01:00"}
 ---
 
 # Ramblice
@@ -12,6 +12,7 @@ Welcome to my site thing! It's *very* early in development right now, but eventu
 ## Recent Articles:
 | Title                                                          | Description                              | Date Created    |
 | -------------------------------------------------------------- | ---------------------------------------- | --------------- |
+| [[Articles/TestArticle\|TestArticle]]                       | \-                                       | June 11, 2026   |
 | [[Articles/Type Age Channel Guide\|Type Age Channel Guide]] | \-                                       | August 30, 2025 |
 | [[Articles/Revenge of the Blog\|Revenge of the Blog]]       | I've gone down the rabbit hole... again. | July 26, 2025   |
 
