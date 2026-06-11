@@ -12,7 +12,6 @@ Welcome to my site thing! It's *very* early in development right now, but eventu
 ## Recent Articles:
 | Title                                                          | Description                              | Date Created    |
 | -------------------------------------------------------------- | ---------------------------------------- | --------------- |
-| [[Articles/TestArticle\|TestArticle]]                       | \-                                       | June 11, 2026   |
 | [[Articles/Type Age Channel Guide\|Type Age Channel Guide]] | \-                                       | August 30, 2025 |
 | [[Articles/Revenge of the Blog\|Revenge of the Blog]]       | I've gone down the rabbit hole... again. | July 26, 2025   |
 
