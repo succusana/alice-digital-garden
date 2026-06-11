@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/articles/revenge-of-the-blog/","title":"Revenge of the Blog","created":"2025-07-26T14:53:48.581+01:00","updated":"2025-07-26T15:26:50.490+01:00"}
+{"dg-publish":true,"permalink":"/articles/revenge-of-the-blog/","title":"Revenge of the Blog","created":"2025-07-26T14:53:48.581+01:00","updated":"2026-06-11T11:07:41.505+01:00"}
 ---
 
-So, here we are again... Wait, it's been an entire *year?* 
+So, here we are again... Wait it's been an entire *year?* 
 
 ## How I Procrastinated So Hard That My Website Died
 
